@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Curso Full Stack Javascript",
+            "image": "https://d1tvk6jrw60uvw.cloudfront.net/bucket/full-stack-javascript-developer.jpg",
+            "price": 1000,
+            "description": "Torne-se um desenvolvedor Full Stack JS em 1 ano e esteja pronto para o mercado de trabalho. "
+        },
+        {
+            "id": 2,
+            "name": "Curso Python Completo",
+            "image": "https://i.pinimg.com/564x/34/01/ee/3401ee2dbb27776d850e77c6a2bee3d2.jpg",
+            "price": 1000,
+            "description": "Torne-se um desenvolvedor Python em 1 ano e esteja pronto para o mercado de trabalho. "
+        },
+        {
+            "id": 3,
+            "name": "Curso Power BI",
+            "image":"https://learn.microsoft.com/pt-br/power-bi/create-reports/media/service-dashboard-themes/power-bi-full-dashboard-theme.png",
+            "price": 800,
+            "description": "Torne-se um desenvolvedor de Power BI em 6 meses e esteja pronto para o mercado de trabalho. "
+        }
+    ]
+}
